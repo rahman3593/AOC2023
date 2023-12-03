@@ -1,0 +1,15 @@
+/Users/abdulrahman.a/repos/poc/rahman3593/AOC2023/AOC2023/bin/Debug/net6.0/AOC2023
+/Users/abdulrahman.a/repos/poc/rahman3593/AOC2023/AOC2023/bin/Debug/net6.0/AOC2023.deps.json
+/Users/abdulrahman.a/repos/poc/rahman3593/AOC2023/AOC2023/bin/Debug/net6.0/AOC2023.runtimeconfig.json
+/Users/abdulrahman.a/repos/poc/rahman3593/AOC2023/AOC2023/bin/Debug/net6.0/AOC2023.dll
+/Users/abdulrahman.a/repos/poc/rahman3593/AOC2023/AOC2023/bin/Debug/net6.0/AOC2023.pdb
+/Users/abdulrahman.a/repos/poc/rahman3593/AOC2023/AOC2023/obj/Debug/net6.0/AOC2023.csproj.AssemblyReference.cache
+/Users/abdulrahman.a/repos/poc/rahman3593/AOC2023/AOC2023/obj/Debug/net6.0/AOC2023.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abdulrahman.a/repos/poc/rahman3593/AOC2023/AOC2023/obj/Debug/net6.0/AOC2023.AssemblyInfoInputs.cache
+/Users/abdulrahman.a/repos/poc/rahman3593/AOC2023/AOC2023/obj/Debug/net6.0/AOC2023.AssemblyInfo.cs
+/Users/abdulrahman.a/repos/poc/rahman3593/AOC2023/AOC2023/obj/Debug/net6.0/AOC2023.csproj.CoreCompileInputs.cache
+/Users/abdulrahman.a/repos/poc/rahman3593/AOC2023/AOC2023/obj/Debug/net6.0/AOC2023.dll
+/Users/abdulrahman.a/repos/poc/rahman3593/AOC2023/AOC2023/obj/Debug/net6.0/refint/AOC2023.dll
+/Users/abdulrahman.a/repos/poc/rahman3593/AOC2023/AOC2023/obj/Debug/net6.0/AOC2023.pdb
+/Users/abdulrahman.a/repos/poc/rahman3593/AOC2023/AOC2023/obj/Debug/net6.0/AOC2023.genruntimeconfig.cache
+/Users/abdulrahman.a/repos/poc/rahman3593/AOC2023/AOC2023/obj/Debug/net6.0/ref/AOC2023.dll
